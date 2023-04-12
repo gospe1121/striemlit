@@ -1,0 +1,22 @@
+●streamlit起動方法
+VScode ターミナルで以下実行
+
+streamlit run main.py
+
+ブラウザに表示される。ソース変更後は再読み込みで更新可能。
+
+
+
+github
+
+インストール手順→https://prog-8.com/docs/git-env-win
+
+ID:gospe1121
+PASS:Buturi1122
+
+今回のURL
+https://github.com/gospe1121/striemlit.git
+
+
+
+
